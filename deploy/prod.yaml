@@ -7,4 +7,4 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/<project-id>/locations/<zone>/clusters/helm-cd-testing-prd
+  cluster: projects/vast-bounty-394808/locations/us-central1-a/clusters/helm-cd-testing-prd
