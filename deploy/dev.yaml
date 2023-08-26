@@ -6,4 +6,4 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/<project-id>/locations/<zone>/clusters/helm-cd-testing-dev
+  cluster: projects/vast-bounty-394808/locations/us-central1-a/clusters/helm-cd-testing-dev
